@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="<img width="1983" height="793" alt="misu_banner" src="https://github.com/user-attachments/assets/41416cd8-71fd-44a3-888a-86e27cb527bd" />
-" alt="MisuTech Banner"/>
+  <img width="100%" alt="MisuTech Banner" src="https://github.com/user-attachments/assets/41416cd8-71fd-44a3-888a-86e27cb527bd" />
 </p>
 
 <h1 align="center">MisuTech</h1>
