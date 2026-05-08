@@ -79,8 +79,6 @@ Sensors → ESP32 → MQTT/DDS → Backend → Dashboard/Mobile App
 ## 🛠️ Current Development
 
 - Smart AirVest Platform
-- DDS Monitoring Systems
-- IoT Communication Infrastructure
 - Embedded Safety Solutions
 
 ---
